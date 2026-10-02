@@ -31,8 +31,8 @@ Also included: an overview of key `cv2` functions and an introduction to convolu
 ## Getting started
 
 ```bash
-git clone https://github.com/Mian-Basam/Open-CV-.git
-cd Open-CV-
+git clone https://github.com/Mian-Basam/OpenCV-Image-Processing.git
+cd OpenCV-Image-Processing
 pip install opencv-python matplotlib numpy jupyter
 jupyter notebook Lab_tasks_image_processing.ipynb
 ```
